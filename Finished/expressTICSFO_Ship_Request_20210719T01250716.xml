@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bookings xmlns="http://www.magaya.com/XMLSchema/V1">
+<AirBooking Type="BK">
+<CreatedOn>2021-07-21T15:25:05</CreatedOn>
+<Number>X100000001853871</Number>
+<ModeOfTransportation Code="40">
+<Description>Air</Description>
+<Method>Air</Method>
+</ModeOfTransportation>
+<ModeOfTransportCode>40</ModeOfTransportCode>
+<ShipperName>Shinko_TKK</ShipperName>
+<ShipperAddress>
+<Street>12169, Kusama, Nakanoshi, Nagano</Street>
+<City>Nakano</City>
+<State>NG</State>
+<ZipCode>383-8581</ZipCode>
+<Country Code="JP">JP</Country>
+<ContactName>Shinko_TKK</ContactName>
+</ShipperAddress>
+<ConsigneeName>Lam Research Corporation</ConsigneeName>
+<ConsigneeAddress>
+<Street>6551</Street>
+<City>Tracy</City>
+<State>CA</State>
+<ZipCode>95377</ZipCode>
+<Country Code="US">US</Country>
+</ConsigneeAddress>
+<Items>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">50</Length>
+<Height Unit="cm">13</Height>
+<Width Unit="cm">49</Width>
+<Weight Unit="kg">7.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">50</Length>
+<Height Unit="cm">13</Height>
+<Width Unit="cm">49</Width>
+<Weight Unit="kg">7.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">50</Length>
+<Height Unit="cm">13</Height>
+<Width Unit="cm">49</Width>
+<Weight Unit="kg">7.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">50</Length>
+<Height Unit="cm">13</Height>
+<Width Unit="cm">49</Width>
+<Weight Unit="kg">7.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">50</Length>
+<Height Unit="cm">13</Height>
+<Width Unit="cm">49</Width>
+<Weight Unit="kg">7.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">50</Length>
+<Height Unit="cm">13</Height>
+<Width Unit="cm">49</Width>
+<Weight Unit="kg">7.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">50</Length>
+<Height Unit="cm">13</Height>
+<Width Unit="cm">49</Width>
+<Weight Unit="kg">7.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">50</Length>
+<Height Unit="cm">13</Height>
+<Width Unit="cm">49</Width>
+<Weight Unit="kg">7.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">46</Length>
+<Height Unit="cm">30</Height>
+<Width Unit="cm">45</Width>
+<Weight Unit="kg">9</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">43</Length>
+<Height Unit="cm">30</Height>
+<Width Unit="cm">41</Width>
+<Weight Unit="kg">6.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">43</Length>
+<Height Unit="cm">30</Height>
+<Width Unit="cm">41</Width>
+<Weight Unit="kg">6.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">43</Length>
+<Height Unit="cm">30</Height>
+<Width Unit="cm">41</Width>
+<Weight Unit="kg">2.8</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">43</Length>
+<Height Unit="cm">30</Height>
+<Width Unit="cm">41</Width>
+<Weight Unit="kg">3.4</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4501973967,4502192393,4502208784,4501973960,4501901047,4501901056,4501973948</SupplierPONumber>
+</Item>
+</Items>
+<CreatorNetworkID>23094</CreatorNetworkID>
+<TotalPieces>13</TotalPieces>
+<TotalWeight Unit="kg">91.19999999999999</TotalWeight>
+<DescriptionOfGoods></DescriptionOfGoods>
+<OriginPort Code="">
+<Country Code="JP">JP</Country>
+<Method>Air</Method>
+<Name>null</Name>
+<Subdivision></Subdivision>
+</OriginPort>
+<DestinationPort Code="SFO">
+<Country Code="US">US</Country>
+<Method>Air</Method>
+<Name>SFO</Name>
+<Subdivision></Subdivision>
+</DestinationPort>
+<Direction>Outgoing</Direction>
+<EstimatedDepartureDate>2021-10-03T15:25:05</EstimatedDepartureDate>
+<CustomFields>
+<CustomField>
+<CustomFieldDefinition>
+<Type>PickList</Type>
+<InternalName>edi_service_Level</InternalName>
+<DisplayName>EDI Service Level</DisplayName>
+</CustomFieldDefinition>
+<Value>EX</Value>
+</CustomField>
+<CustomField>
+<CustomFieldDefinition>
+<Type>Logical</Type>
+<InternalName>raterequestonly</InternalName>
+<DisplayName>RateRequestOnly</DisplayName>
+</CustomFieldDefinition>
+<Value>No</Value>
+</CustomField>
+<CustomField>
+<CustomFieldDefinition>
+<Type>PickList</Type>
+<InternalName>ftz_flag</InternalName>
+<DisplayName>FTZ</DisplayName>
+</CustomFieldDefinition>
+<Value>FTZ</Value>
+</CustomField>
+<CustomField>
+<CustomFieldDefinition>
+<Type>PickList</Type>
+<InternalName>billing_party</InternalName>
+<DisplayName>Billing Party</DisplayName>
+</CustomFieldDefinition>
+<Value>Consignee</Value>
+</CustomField>
+</CustomFields>
+</AirBooking>
+</Bookings>

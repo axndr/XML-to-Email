@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bookings xmlns="http://www.magaya.com/XMLSchema/V1">
+<AirBooking Type="BK">
+<CreatedOn>2021-07-19T10:21:17</CreatedOn>
+<Number>X100000001853465</Number>
+<ModeOfTransportation Code="40">
+<Description>Air</Description>
+<Method>Air</Method>
+</ModeOfTransportation>
+<ModeOfTransportCode>40</ModeOfTransportCode>
+<ShipperName>Jabil Circuit C/O Agility</ShipperName>
+<ShipperAddress>
+<Street>Plot 73C,Lintang Bayan Lepas 3</Street>
+<City>Bayan Lepas</City>
+<State>PP</State>
+<ZipCode>11900</ZipCode>
+<Country Code="MY">MY</Country>
+<ContactName>Siti Nor Rizah Binti Kamal</ContactName>
+</ShipperAddress>
+<ConsigneeName>Lam Research Mfg Korea LLC</ConsigneeName>
+<ConsigneeAddress>
+<Street>7826</Street>
+<City>OsanSi, GyeonggiDo</City>
+<State>09</State>
+<ZipCode>18145</ZipCode>
+<Country Code="KR">KR</Country>
+</ConsigneeAddress>
+<Items>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="cm">107</Length>
+<Height Unit="cm">117</Height>
+<Width Unit="cm">107</Width>
+<Weight Unit="kg">223.26</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4502208305,4502212597,4502159570,4502234701</SupplierPONumber>
+</Item>
+</Items>
+<CreatorNetworkID>23094</CreatorNetworkID>
+<TotalPieces>1</TotalPieces>
+<TotalWeight Unit="kg">223.26</TotalWeight>
+<DescriptionOfGoods></DescriptionOfGoods>
+<OriginPort Code="PEN">
+<Country Code="MY">MY</Country>
+<Method>Air</Method>
+<Name>PEN</Name>
+<Subdivision></Subdivision>
+</OriginPort>
+<DestinationPort Code="">
+<Country Code="KR">KR</Country>
+<Method>Air</Method>
+<Name>null</Name>
+<Subdivision></Subdivision>
+</DestinationPort>
+<Direction>Outgoing</Direction>
+<EstimatedDepartureDate>2021-07-19T10:21:17</EstimatedDepartureDate>
+<CustomFields>
+<CustomField>
+<CustomFieldDefinition>
+<Type>PickList</Type>
+<InternalName>edi_service_Level</InternalName>
+<DisplayName>EDI Service Level</DisplayName>
+</CustomFieldDefinition>
+<Value>ST</Value>
+</CustomField>
+<CustomField>
+<CustomFieldDefinition>
+<Type>Logical</Type>
+<InternalName>raterequestonly</InternalName>
+<DisplayName>RateRequestOnly</DisplayName>
+</CustomFieldDefinition>
+<Value>No</Value>
+</CustomField>
+<CustomField>
+<CustomFieldDefinition>
+<Type>PickList</Type>
+<InternalName>ftz_flag</InternalName>
+<DisplayName>FTZ</DisplayName>
+</CustomFieldDefinition>
+<Value></Value>
+</CustomField>
+<CustomField>
+<CustomFieldDefinition>
+<Type>PickList</Type>
+<InternalName>billing_party</InternalName>
+<DisplayName>Billing Party</DisplayName>
+</CustomFieldDefinition>
+<Value>Consignee</Value>
+</CustomField>
+</CustomFields>
+</AirBooking>
+</Bookings>

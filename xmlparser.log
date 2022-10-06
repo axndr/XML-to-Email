@@ -1,0 +1,14 @@
+2022-10-05 21:46:29,896 - INFO - X100000001852947 Email Sent Successfully [<Response [202]>]
+2022-10-05 21:46:30,690 - INFO - X100000001853604 Email Sent Successfully [<Response [202]>]
+2022-10-05 21:46:31,524 - INFO - X100000001853731 Email Sent Successfully [<Response [202]>]
+2022-10-05 21:46:32,506 - INFO - X100000001853887 Email Sent Successfully [<Response [202]>]
+2022-10-05 21:46:34,017 - INFO - X100000001853960 Email Sent Successfully [<Response [202]>]
+2022-10-05 21:50:48,444 - INFO - X100000001852947 Email Sent Successfully [<Response [202]>]
+2022-10-05 21:50:49,192 - INFO - X100000001853604 Email Sent Successfully [<Response [202]>]
+2022-10-05 21:50:50,022 - INFO - X100000001853731 Email Sent Successfully [<Response [202]>]
+2022-10-05 21:50:50,027 - WARNING - X100000001853887 File Internal TMS.xlsx in use, will attempt to save upon next cycle: [Errno 13] Permission denied: 'C:\\Users\\alexc\\Documents\\projects\\LAM XML to Email Workflow\\JP TMS Spreadsheets\\Internal TMS.xlsx'
+2022-10-05 21:50:50,909 - INFO - xmls\TICSFO_Ship_Request_20210719T00273385.xml Error Email Sent Successfully [<Response [202]>]
+2022-10-05 21:50:51,705 - INFO - X100000001853887 Email Sent Successfully [<Response [202]>]
+2022-10-05 21:50:51,711 - WARNING - X100000001853960 File Internal TMS.xlsx in use, will attempt to save upon next cycle: [Errno 13] Permission denied: 'C:\\Users\\alexc\\Documents\\projects\\LAM XML to Email Workflow\\JP TMS Spreadsheets\\Internal TMS.xlsx'
+2022-10-05 21:50:52,582 - INFO - xmls\TICSFO_Ship_Request_20210719T01062001.xml Error Email Sent Successfully [<Response [202]>]
+2022-10-05 21:50:53,450 - INFO - X100000001853960 Email Sent Successfully [<Response [202]>]

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bookings xmlns="http://www.magaya.com/XMLSchema/V1">
+<AirBooking Type="BK">
+<CreatedOn>2021-07-17T19:32:12</CreatedOn>
+<Number>X100000001852174</Number>
+<ModeOfTransportation Code="40">
+<Description>Air</Description>
+<Method>Air</Method>
+</ModeOfTransportation>
+<ModeOfTransportCode>40</ModeOfTransportCode>
+<ShipperName>CALMAX TECHNOLOGY</ShipperName>
+<ShipperAddress>
+<Street>558 LAURELWOOD ROAD</Street>
+<City>SANTA CLARA</City>
+<State>CA</State>
+<ZipCode>95054</ZipCode>
+<Country Code="US">US</Country>
+<ContactName>TAREK</ContactName>
+</ShipperAddress>
+<ConsigneeName>Lam Research Mfg Korea LLC</ConsigneeName>
+<ConsigneeAddress>
+<Street>7826</Street>
+<City>OsanSi, GyeonggiDo</City>
+<State>09</State>
+<ZipCode>18145</ZipCode>
+<Country Code="KR">KR</Country>
+</ConsigneeAddress>
+<Items>
+<Item>
+<Status>Booked</Status>
+<Pieces>1</Pieces>
+<Length Unit="in">42</Length>
+<Height Unit="in">38</Height>
+<Width Unit="in">40</Width>
+<Weight Unit="lb">200</Weight>
+<SupplierInvoiceNumber></SupplierInvoiceNumber>
+<SupplierPONumber>4502230087,4502187730,4502160625,4502251704,4502221144,4502187722,4502190744,4502190747,4502203534,4502208283,4502223916,4502239647,4502248466,4502256601,4502227661</SupplierPONumber>
+</Item>
+</Items>
+<CreatorNetworkID>23094</CreatorNetworkID>
+<TotalPieces>1</TotalPieces>
+<TotalWeight Unit="lb">200</TotalWeight>
+<DescriptionOfGoods></DescriptionOfGoods>
+<OriginPort Code="SFO">
+<Country Code="US">US</Country>
+<Method>Air</Method>
+<Name>SFO</Name>
+<Subdivision></Subdivision>
+</OriginPort>
+<DestinationPort Code="">
+<Country Code="KR">KR</Country>
+<Method>Air</Method>
+<Name>null</Name>
+<Subdivision></Subdivision>
+</DestinationPort>
+<Direction>Outgoing</Direction>
+<EstimatedDepartureDate>2021-07-17T19:32:12</EstimatedDepartureDate>
+<CustomFields>
+<CustomField>
+<CustomFieldDefinition>
+<Type>PickList</Type>
+<InternalName>edi_service_Level</InternalName>
+<DisplayName>EDI Service Level</DisplayName>
+</CustomFieldDefinition>
+<Value>ST</Value>
+</CustomField>
+<CustomField>
+<CustomFieldDefinition>
+<Type>Logical</Type>
+<InternalName>raterequestonly</InternalName>
+<DisplayName>RateRequestOnly</DisplayName>
+</CustomFieldDefinition>
+<Value>No</Value>
+</CustomField>
+<CustomField>
+<CustomFieldDefinition>
+<Type>PickList</Type>
+<InternalName>ftz_flag</InternalName>
+<DisplayName>FTZ</DisplayName>
+</CustomFieldDefinition>
+<Value></Value>
+</CustomField>
+<CustomField>
+<CustomFieldDefinition>
+<Type>PickList</Type>
+<InternalName>billing_party</InternalName>
+<DisplayName>Billing Party</DisplayName>
+</CustomFieldDefinition>
+<Value>Consignee</Value>
+</CustomField>
+</CustomFields>
+</AirBooking>
+</Bookings>
